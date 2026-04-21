@@ -1,2 +1,7 @@
 # just-a-brush-up
-this is to use this platform for learning purpose
+#include<stdio.h>
+int main()
+{
+prinf("Hello Im Learning GitHub..");
+return 0;
+}
